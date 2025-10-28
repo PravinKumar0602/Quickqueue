@@ -86,5 +86,3 @@ quickqueue/
 - Queue analytics and reports
 
 ---
-
-© 2025 Edgers. Frontend prototype for learning and demonstration.
